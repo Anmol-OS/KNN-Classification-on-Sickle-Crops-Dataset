@@ -21,3 +21,5 @@ The main objective is to **classify crop type** based on tabular features using 
 
 ## **Potential Impact**
 This system can be extended into a **decision support tool** for agricultural advisory services. By predicting the most probable crop type for given land and climate conditions, it can help **farmers and planners** make informed decisions, improve resource utilization, and enhance agricultural productivity.
+
+
